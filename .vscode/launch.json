@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch drawTest",
+            "request": "launch",
+            "mainClass": "drawTest",
+            "projectName": "java_6ca65c6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch NotHelloWorld",
+            "request": "launch",
+            "mainClass": "NotHelloWorld",
+            "projectName": "java_6ca65c6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleFrameTest",
+            "request": "launch",
+            "mainClass": "SimpleFrameTest",
+            "projectName": "java_6ca65c6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClickableDice",
+            "request": "launch",
+            "mainClass": "ClickableDice",
+            "projectName": "java_6ca65c6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_6ca65c6d"
+        },
+        {
+            "type": "java",
             "name": "Launch UnsynchBankTest",
             "request": "launch",
             "mainClass": "UnsynchBankTest",

@@ -1,8 +1,13 @@
-import java.util.ArrayList;
-
+/**
+ * Main
+ */
 public class Main {
-    
+
     public static void main(String[] args) {
-        System.out.println("1".repeat(10));
+        inner in = new Main().new inner();
+    }
+
+    class inner{
+
     }
 }
