@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MouseComponent",
+            "request": "launch",
+            "mainClass": "MouseComponent",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButtonFrame",
+            "request": "launch",
+            "mainClass": "ButtonFrame",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
             "name": "Launch drawTest",
             "request": "launch",
             "mainClass": "drawTest",
