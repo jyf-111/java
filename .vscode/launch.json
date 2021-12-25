@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Explorer",
+            "request": "launch",
+            "mainClass": "Explorer",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
             "name": "Launch MouseComponent",
             "request": "launch",
             "mainClass": "MouseComponent",
