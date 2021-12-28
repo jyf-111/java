@@ -18,7 +18,6 @@ public class MainFrame extends JFrame {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				panel.onFinished();
-
 				System.exit(0);
 			}
 		});
