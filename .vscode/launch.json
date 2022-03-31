@@ -8,6 +8,55 @@
             "type": "java",
             "name": "Launch Explorer",
             "request": "launch",
+            "mainClass": "school.exam.Explorer",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnsynchBankTest",
+            "request": "launch",
+            "mainClass": "Thread_.UnsynchBankTest",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch University",
+            "request": "launch",
+            "mainClass": "University",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trim",
+            "request": "launch",
+            "mainClass": "Trim",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch SameAge",
+            "request": "launch",
+            "mainClass": "SameAge",
+            "projectName": "java_a7713763"
+        },
+        {
+            "type": "java",
+            "name": "Launch Explorer",
+            "request": "launch",
             "mainClass": "Explorer",
             "projectName": "java_a7713763"
         },

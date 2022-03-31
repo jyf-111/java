@@ -68,7 +68,6 @@ public class blockingQueueTest {
                 }
             }
         } catch (Exception e) {
-            //TODO: handle exception
         }
     }
     public static void search(Path file,String keyword) throws IOException {

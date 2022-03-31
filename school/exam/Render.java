@@ -1,3 +1,5 @@
+package school.exam;
+
 import javax.swing.SwingUtilities;
 
 public class Render implements Runnable {
